@@ -3,6 +3,12 @@
 body{
     background-color: #a9bd7e;
 }
+#calcul{
+    position: fixed;
+      left: 50%;
+      margin-top: -50px;
+      margin-left: -100px;
+}
 table{
     background-color: #9dd2ea;
     width: 295px;
@@ -83,11 +89,9 @@ input:hover{
     float: left;
     display: flex;
 }
-#triPolinja{
-    float: left;
-    margin-left: 30%;
-    padding: 20px;
+#dolen{
+    display:block;
 }
-#slika{
-    float: right;
+#slika2{
+    float:right;
 }
